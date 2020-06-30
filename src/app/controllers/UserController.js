@@ -1,3 +1,4 @@
+/* eslint-disable import/no-named-as-default-member */
 import User from '../models/User';
 
 class UserController {
